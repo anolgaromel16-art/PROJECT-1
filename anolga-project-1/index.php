@@ -18,7 +18,7 @@
             <a href="about.html">About</a>
             <a href="skills.html">Skills</a>
             <a href="projects.html">Projects</a>
-            <a href="#contact">Contact</a>
+            <a href="contact.html">Contact</a>
         </nav>
     </header>
 
@@ -43,17 +43,6 @@
             <img src="assets.png" alt="My Picture">
         </div>
     </section>
-
-    <section id="contact" class="contact">
-        <h2>Contact <span>Me</span></h2>
-        <p>Email: <a href="mailto:KennyBaldomero@gmail.com">KennyBaldomero@gmail.com</a></p>
-        <p>Facebook: Romel Anolga</p>
-    </section>
-
-    <footer>
-        <p>© 2026 Romel Anolga</p>
-        <p>Thank you for visiting my portfolio!</p>
-    </footer>
 
 </body>
 </html>

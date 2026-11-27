@@ -15,7 +15,7 @@
         <h2 class="logo">My Portfolio.</h2>
         <nav>
             <a href="#home">Home</a>
-            <a href="#about">About</a>
+            <a href="about.html">About</a>
             <a href="#skills">Skills</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
@@ -36,23 +36,12 @@
                 experience in software development. My goal is to build efficient, user-friendly, and impactful solutions
                 while growing as a developer.
             </p>
-            <a href="#about" class="btn">About Me</a>
+            <a href="about.html" class="btn">About Me</a>
         </div>
 
         <div class="home-img">
             <img src="assets.png" alt="My Picture">
         </div>
-    </section>
-
-    <section id="about" class="about">
-        <h2>About <span>Me</span></h2>
-        <p>
-            Hello! I'm someone who enjoys exploring technology,
-            learning how things work, and building things through code.
-            I have a passion for web development and love the process
-            of turning ideas into reality. I am always eager to learn
-            new skills, take on challenges, and grow as a developer.
-        </p>
     </section>
 
     <section id="skills" class="skills">

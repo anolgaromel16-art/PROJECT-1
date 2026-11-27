@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    background: #e8f5ff;
+    background: #f3f4f6;
     color: #103049;
 }
 
@@ -22,7 +22,7 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 8%;
-    background: rgba(221, 240, 255, 0.96);
+    background: rgba(243, 244, 246, 0.96);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -124,7 +124,7 @@ nav a:hover {
 .about {
     padding: 100px 10%;
     text-align: center;
-    background: #dcefff;
+    background: #e5e7eb;
 }
 
 .about h2,
@@ -169,7 +169,7 @@ nav a:hover {
     background: #ffffff;
     padding: 30px 20px;
     border-radius: 15px;
-    border: 1px solid #bae6fd;
+    border: 1px solid #d1d5db;
     transition: 0.3s;
 }
 
@@ -207,7 +207,7 @@ nav a:hover {
 .projects {
     padding: 100px 10%;
     text-align: center;
-    background: #dcefff;
+    background: #e5e7eb;
 }
 
 .project-container {
@@ -252,7 +252,7 @@ nav a:hover {
 
 /* Footer */
 footer {
-    background: #cbe8ff;
+    background: #d1d5db;
     padding: 25px;
     text-align: center;
     color: #31536b;

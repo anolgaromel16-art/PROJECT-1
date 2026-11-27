@@ -146,13 +146,9 @@ nav a:hover {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
-    padding-top: 160px;
-}
-
-.about.standalone .btn {
-    margin-top: 40px;
-    align-self: center;
+    padding: 80px 10% 40px;
 }
 
 /* Skills Section */

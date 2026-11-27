@@ -16,7 +16,7 @@
         <nav>
             <a href="#home">Home</a>
             <a href="about.html">About</a>
-            <a href="#skills">Skills</a>
+            <a href="skills.html">Skills</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
         </nav>
@@ -41,32 +41,6 @@
 
         <div class="home-img">
             <img src="assets.png" alt="My Picture">
-        </div>
-    </section>
-
-    <section id="skills" class="skills">
-        <h2>My Skills</h2>
-
-        <div class="skill-container">
-            <div class="box">
-                <h3>HTML</h3>
-                <p>Creating website structures.</p>
-            </div>
-
-            <div class="box">
-                <h3>CSS</h3>
-                <p>Designing and styling websites.</p>
-            </div>
-
-            <div class="box">
-                <h3>Communication</h3>
-                <p>Sharing ideas and working with others.</p>
-            </div>
-
-            <div class="box">
-                <h3>Teamwork</h3>
-                <p>Working together to achieve goals.</p>
-            </div>
         </div>
     </section>
 

@@ -192,6 +192,19 @@ nav a:hover {
     box-shadow: 0 0 20px rgba(0, 212, 255, 0.2);
 }
 
+.skills.standalone {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 160px;
+}
+
+.skills.standalone .btn {
+    margin-top: 40px;
+    align-self: center;
+}
+
 /* Projects Section */
 .projects {
     padding: 100px 10%;

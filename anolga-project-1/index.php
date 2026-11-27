@@ -17,7 +17,7 @@
             <a href="#home">Home</a>
             <a href="about.html">About</a>
             <a href="skills.html">Skills</a>
-            <a href="#projects">Projects</a>
+            <a href="projects.html">Projects</a>
             <a href="#contact">Contact</a>
         </nav>
     </header>
@@ -41,22 +41,6 @@
 
         <div class="home-img">
             <img src="assets.png" alt="My Picture">
-        </div>
-    </section>
-
-    <section id="projects" class="projects">
-        <h2>My Projects</h2>
-
-        <div class="project-container">
-            <div class="box">
-                <h3>Personal Portfolio</h3>
-                <p>A simple website about myself using HTML and CSS.</p>
-            </div>
-
-            <div class="box">
-                <h3>Simple Web Design</h3>
-                <p>A beginner website design project.</p>
-            </div>
         </div>
     </section>
 

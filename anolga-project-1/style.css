@@ -218,6 +218,19 @@ nav a:hover {
     gap: 25px;
 }
 
+.projects.standalone {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 160px;
+}
+
+.projects.standalone .btn {
+    margin-top: 40px;
+    align-self: center;
+}
+
 /* Contact Section */
 .contact {
     padding: 100px 10%;
